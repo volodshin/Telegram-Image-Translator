@@ -1,1 +1,1 @@
-# Telegram-Translator
+# Telegram-Image-Translator
